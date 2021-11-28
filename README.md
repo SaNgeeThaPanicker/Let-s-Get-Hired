@@ -1,1 +1,1 @@
-# Placement_Portal
+# Customer_Segmentation_Project
